@@ -1,4 +1,4 @@
-# 🌈 ChromaViews: YouTube Promotion Engine
+# 🌈 ChromaViews: YouTube Bot
 
 # More info: https://bit.ly/3GfN8DI
 
